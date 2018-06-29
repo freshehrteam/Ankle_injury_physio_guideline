@@ -1,2 +1,2 @@
 This is the template file set for template Ankle Sprain - Assessment UCL.v0( 2f127ef7-223c-478d-9423-80e63a70f70b, revision 4), exported from the Clinical Knowledge Manager.
-Export time: Tue Nov 14 10:18:03 CET 2017
+Export time: Fri Jun 29 17:26:26 CEST 2018
